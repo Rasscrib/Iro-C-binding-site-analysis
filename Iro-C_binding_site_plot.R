@@ -11,7 +11,7 @@
 ## Motif  : ACAnnTGT (Iro-C minimal binding site), plus strand
 ## Output : locus map (axis, gene models, Iro-C motifs)
 ##
-## This single script reproduces Figure S4G.
+## This single script reproduces Figure EV4G.
 ############################################################
 
 ## ---- Installation (run once; uncomment if packages are not installed) ----
